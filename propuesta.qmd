@@ -1,0 +1,94 @@
+---
+title: "Propuesta DATASOC"
+author: "Dirección de Investigación y Publicaciones"
+date: last-modified
+format: 
+  html:
+    number-sections: true
+---
+
+## Introducción
+
+En los últimos años, la Facultad de Ciencias Sociales ha buscado posicionarse como un centro de generación de conocimiento basado en investigación social de relevancia nacional e internacional. Para ello, se han definido políticas orientadas a aumentar el impacto del conocimiento construido desde nuestra Facultad, destacando nuestra capacidad para contribuir a los desafíos del país.
+
+Pese a esto, la Facultad aún enfrenta dificultades para lograr este objetivo, tales como:
+
+ **a) Falencias en la implementación de una gobernanza de datos efectiva**
+ 
+Aunque existen iniciativas puntuales, la gobernanza de datos no se ha establecido como un objetivo estratégico. En términos generales, se observa una alta fragmentación de los sistemas de información, sin definición clara de roles, estándares y buenas prácticas comunes.
+ 
+En el ámbito de la investigación, la ausencia de lineamientos para la gestión de datos limita la generación de reportes periódicos sobre el estado de la investigación y, en consecuencia, dificulta la visibilización de los logros institucionales.
+ 
+ **b) Limitaciones institucionales para el impacto y la transferencia de conocimientos a la sociedad**
+ 
+Más allá de la gobernanza de datos, existe una indefinición institucional respecto de qué entendemos por *impacto* y cómo medirlo. En particular, se carece de un canal que facilite sistemáticamente la transferencia del conocimiento hacia la sociedad civil y los tomadores de decisiones.
+ 
+ **c) Poca preparación para nuevos desafíos científicos y tecnológicos**
+ 
+Las ciencias sociales computacionales han crecido aceleradamente en los últimos años, impulsadas por desarrollos en inteligencia artificial, *machine learning*, análisis de *big data* y procesamiento de lenguaje natural.
+
+Al mismo tiempo, las ciencias sociales enfrentan retos vinculados con la apertura y la transparencia del trabajo investigativo, evidenciados en la llamada crisis de replicación. En respuesta, cobra creciente importancia la incorporación de principios de ciencia abierta.
+
+Pese a iniciativas aisladas, la Facultad no cuenta con un espacio que, de forma sistemática, reflexione, investigue y acompañe la adopción de estas herramientas en el quehacer académico.
+
+En este contexto, proponemos la creación del Centro de Ciencia de Datos de la Facultad de Ciencias Sociales -- **DATASOC**, orietando a cerrar estas brechas mediante la instalación de una gobernanza de datos institucional efectiva; la construcción de un canal que facilite la transferencia de conocimiento al Estado y la sociedad civil; y abriendo un campo de desarrollo para la investigación y la formación en ciencias de datos sociales con proyección nacional. Este documento presenta un primer acercamiento al propósito general de DATASOC y a las potenciales líneas de acción del Centro.  
+
+## Propósito
+
+**DATASOC busca posicionar a la Facultad de Ciencias Sociales como un referente nacional en el desarrollo de las ciencias de datos sociales**, articulando investigación, formación, gestión y consultoría en un único Centro de Ciencia de Datos Sociales que permita:
+
+ i) **Impulsar la investigación de punta** en métodos avanzados y ciencias sociales computaciones.
+ 
+ ii) **Promover la formación** y la capacitación en metodologías de análisis y gestión de datos para estudiantes, académicos y funcionarios de la Facultad.
+ 
+ iii) **Fortalecer la gobernanza de datos** interna de la Facultad, promoviendo prácticas que estandaricen y optimicen procesos de gestión interna
+ 
+ iv) **Proveer servicios de gestión, análisis y visualización de datos sociales** de calidad y siguiendo los principios de la ciencia abierta para la academia, la ciudadanía y los tomadores de decisiones. 
+
+## Líneas de acción
+
+### Investigación
+
+DATASOC se propone como un **nodo para el desarrollo de investigación metodológica y metacientífica avanzada**. Estas labores se encontrarán en el núcleo del trabajo de DATASOC, pues permitirán el despligue efectivo de las otras líneas de acción, otorgando insumos efectivos para la formación, la gestión interna de datos, y provisión de servicios de consultoría.
+
+El desarrollo de líneas de investigación permitirá a DATASOC presentarse a fondos concursables externos e internos de la Universidad de Chile, constituyendose como una potencial fuente de financiamiento para el Centro. 
+
+Algunas líneas de investigación que podría albergar DATASOC incluyen:
+
+- Investigación metodológica en el área de las **ciencias sociales computacionales**, con especial enfasis en el desarrollo de nuevas técnicas y tecnologías tales como la Inteligencia Artificial, el Machine Learning, el Agent-Based Modelling, la Big Data, el Procesamiento de Lenguaje Natural, entre otras.
+
+- Investigación vinculada a las áreas de la **ciencia abierta, la metaciencia y la bibliometría**. Particularmente, se propone utilizar los datos sobre proyectos de investigación postulados, adjudicados y no-adjudicados por académicos de la Facultad como un potencial objeto de estudio. En esta línea, la Dirección de Investigación y Publicaciones ha venido desarrollando la **Unidad de Ciencia de Datos en Investigación -- CINDAI** que busca desarrollar un sistema local e integrado de gestión, producción y visualización de información científica en la Facultad. 
+
+- A partir de los **datos administrativos** generados en las distintas unidades de la Facultad se podría abrir una tercera línea focalizada en **Estudios sobre Instituciones de Educación Superior**, en la intersección entre las sociologías de la educación y de las organizaciones. 
+
+### Formación
+
+DATASOC será un un **espacio clave en la formación y capacitación** de estudiantes, académicos y funcionarios de la Facultad, así como de la población en general. De tal manera, el rol de DATASOC en cuanto a formación puede incluir:
+
+- **Coordinación de académicos responsables de cursos metodológicos y de análisis de datos** en carreras de pregrado y programas de postgrado con el fin de buscar lineamientos comunes en la formación a nivel de Facultad.
+
+- Dar espacio para integrar estudiantes de pre y postgrados como **pasantes, prácticantes o tesistas**. 
+
+- Brindar **cursos de capacitación** a académicos y funcionarios en herramientas de ciencia de datos que les puedan ser útiles para sus labores en investigación, docencia y gestión. 
+
+- Crear, junto a la Unidad de Educación Continua, una oferta de **cursos de extensión** orientados al público externo y que entreguen certificaciones en gestión y análisis de datos. 
+
+### Gestión/CINDAI
+
+DATASOC tendrá un rol activo en la **optimización de la gestión y la gobernanza de los datos producidos por distintas unidades de la Facultad**. El desarrollo de CINDAI desde la Dirección de Investigación apunta también a este rol, creando un entorno de gobernanza de datos -- incluyendo documentación técnica, metadatos estandarizados y flujo de trabajos claros - que garanticen la encontrabilidad, accesibilidad, interoperabilidad y reutilizabilidad de los datos almacenados. De esta manera, CINDAI apuesta a mejorar la capacidad de la Dirección de Investigación para reportar y visualizar indicadores importantes para la gestión de la Dirección.
+
+Siguiendo este modo de trabajo, desde DATASOC se podrían generar instancias de consultoría a otras unidades de la Facultad que estén interesadas en mejorar la gestión de sus datos internos, o bien en la posibilidad de mantener plataformas de visualización dinámica que refleje indicadores claves para las unidades. 
+
+
+### Consultoría
+
+DATASOC oferecerá **servicios de consultoría de alta calidad** a lo largo del ciclo completo de investigación. Estos servicios estarían dirigidos tanto a público interno (académicos/as FACSO) como externo (tomadores de decisión, servicios públicos, actores de la sociedad civil)
+
+i) **Diseño del estudio**: asesoría en cuestionarios, escalas, muestreo e hipótesis con criterios de transparencia y reproducibilidad. 
+
+ii) **Acceso a bases de datos**: Dar recomendaciones de bases de datos secundarios disponibles acordes a los objetivos del estudio.
+
+iii) **Procesamiento y análisis de datos sociales**: Generar reportes estadísticos y visualizaciones sobre problemas de investigación a partir del procesamiento de bases de datos nacionales (CASEN, INE, ELSOC, entre otras)
+
+iv) **Archivo y apertura**: Dar orientación en el almacenamiento de datos y las condiciones en que esta puede ser compartida y reutilizada. 
+
