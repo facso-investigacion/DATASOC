@@ -73,22 +73,26 @@ DATASOC será un un **espacio clave en la formación y capacitación** de estudi
 
 - Crear, junto a la Unidad de Educación Continua, una oferta de **cursos de extensión** orientados al público externo y que entreguen certificaciones en gestión y análisis de datos. 
 
-### Gestión/CINDAI
+### Gobernanza de Datos
 
-DATASOC tendrá un rol activo en la **optimización de la gestión y la gobernanza de los datos producidos por distintas unidades de la Facultad**. El desarrollo de CINDAI desde la Dirección de Investigación apunta también a este rol, creando un entorno de gobernanza de datos -- incluyendo documentación técnica, metadatos estandarizados y flujo de trabajos claros - que garanticen la encontrabilidad, accesibilidad, interoperabilidad y reutilizabilidad de los datos almacenados. De esta manera, CINDAI apuesta a mejorar la capacidad de la Dirección de Investigación para reportar y visualizar indicadores importantes para la gestión de la Dirección.
+DATASOC asumirá un rol activo en la **optimización de la gestión y la gobernanza de los datos por las distintas unidades de la Facultad**. De tal modo, contribuirá al cierre de las brechas detectadas en este ámbito, promoviendo un entorno de gobernanza de datos que incorporte documentación técnica, metadatos estandarizados y flujos de trabajo definidos, asegurando así la encontrabilidad, accesibilidaes, interoperabilidad y reutilización de los datos almacenados.
 
-Siguiendo este modo de trabajo, desde DATASOC se podrían generar instancias de consultoría a otras unidades de la Facultad que estén interesadas en mejorar la gestión de sus datos internos, o bien en la posibilidad de mantener plataformas de visualización dinámica que refleje indicadores claves para las unidades. 
+Desde la Dirección de Investigación ya se han dado pasos en este sentido mediante el desarrollo de [CINDAI](https://facso-investigacion.github.io/presentaciones/gestion-informacion/gestion-informacion.html#/title-slide), una iniciativa orientada a consolidar un sistema local e integrado para la gestión, producción y visualización de información científica en la Facultad de Ciencias Sociales. Este sistema busca integrar, consolidar y mantenre actualizados los datos relacionados con las postulaciones a proyectos de investigación del cuerpo académico, transformándolos en información confiable y oportuna para la comunicación y la toma de decisiones.
+
+En esa misma línea, DATASOC podría ofrecer instancias de consultoría a otras unidades de la Facultad interesadas en fortalecer la gestión de sus datos internos o en desarrollar y mantener plataformas de visualización dinámicas que reflejen indicadores claves para su que hacer. 
 
 
-### Consultoría
+### Apoyo, Impacto y Transferencia
 
-DATASOC oferecerá **servicios de consultoría de alta calidad** a lo largo del ciclo completo de investigación. Estos servicios estarían dirigidos tanto a público interno (académicos/as FACSO) como externo (tomadores de decisión, servicios públicos, actores de la sociedad civil)
+Se busca fortalecer el propósito público del conocimiento generado en DATASOC y la Facultad de Ciencias Sociales, promoviendo su contribución efectiva al debate público, el diseño de políticas públicas y la toma decisiones basadas en evidencia. En este marco, ofrecerá **servicios especializados de acompañamiento técnico a lo largo del ciclo completo de investigación**.
 
-i) **Diseño del estudio**: asesoría en cuestionarios, escalas, muestreo e hipótesis con criterios de transparencia y reproducibilidad. 
+Las áreas de apoyo comprenden:
 
-ii) **Acceso a bases de datos**: Dar recomendaciones de bases de datos secundarios disponibles acordes a los objetivos del estudio.
+i) **Diseño de estudios**: asesoría en la formulación de preguntas de investigación, hipótesis, estrategias de muestreo, elaboración de cuestionarios y construcción de escalas, bajo criterios de rigurosidad metodológica, transparencia y reproducibilidad.
 
-iii) **Procesamiento y análisis de datos sociales**: Generar reportes estadísticos y visualizaciones sobre problemas de investigación a partir del procesamiento de bases de datos nacionales (CASEN, INE, ELSOC, entre otras)
+ii) **Acceso y uso de datos secundarios**: Dar recomendaciones de bases de datos secundarios disponibles acordes a los objetivos del estudio.
 
-iv) **Archivo y apertura**: Dar orientación en el almacenamiento de datos y las condiciones en que esta puede ser compartida y reutilizada. 
+iii) **Procesamiento y análisis reproducible de datos sociales**: Elaboración de repotes estadísticos reproducibles y desarrollo de visualizaciones interactivas sobre problemas de investigación, utilizando herramientas computacionales para el análisis de bases de datos nacionales (CASEN, INE, ELSOC, entre otras). 
+
+iv) **Gestión, archivo y apertura de datos**: Dar orientación en el almacenamiento de datos y las condiciones que puede ser compartida y reutilizada. 
 
