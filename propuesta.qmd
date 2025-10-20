@@ -95,97 +95,40 @@ iii) **Procesamiento y análisis reproducible de datos sociales**: Elaboración 
 
 iv) **Gestión, archivo y apertura de datos**: Dar orientación en el almacenamiento de datos y las condiciones que puede ser compartida y reutilizada.
 
-## Roles y Equipo
+## Financiamiento e Implementación
 
-### Director/a
+Se acordó en la última reunión darle existencia fundada a DATASOC, a través de su aprobación en el Consejo de Facultad. Además, se planteó la posibilidad de integrar DATASOC dentro del próximo FIDA de la Facultad. En lo inmediato, para iniciar la implementación del proyectos, es necesario avanzar en los siguientes pasos:
 
-EL Director será el encargado académico de DATASOC. Su función principal será dirigir estratégicamente DATASOC, estableciendo objetivos, metas e indicadores asociadas a cada una de sus líneas de acción. Además, tendrá a su cargo la supervisión del equipo profesional de DATASOC, y el vínculo con las autoridades de la Facultad y de la Universidad, así como con instituciones externas del sector público, privado y de la sociedad civil.
+1) Formalizar la existencia de DATASOC en el Consejo de Facultad
 
-Durante la fase inicial, su objetivo prioritario será la instalación y puesta en marcha operativa de DATASOC, asegurando la consolidación de sus procesos, la articulación de sus líneas de trabajo y el posicionamiento de DATASOC como un espacio de referencias en las ciencias de datos sociales a nivel nacional.
+2) Definir el lugar que DATASOC tendrá dentro del proyecto FIDA, para así poder proyectar con precisión los roles y presupuestos
 
-### Subdirector/a
+3) Formalizar, en conjunto al Departamento de Sociología, la oferta para incorporar a Klaus Lehmann a la Facultad. 
 
-El Subdirector participará activamente en la dirección de DATASOC. Particularmente, el Subdirector se encargará del liderazgo científico y de la definición de la agenda de investigación del Centro. Entre sus funciones
+4) Contratar a un/a asistente  a media jornada para colaborar en la formulación de la propuesta. Los honorarios de este/a profesional podrían ser cubiertos total o parcialmente con fondos de la Dirección de Investigación, provenientes de excedentes del PEEI o de los overheads de FONDECYT. 
 
-1.  Definir una estrategia de postulaciones a fondos concursables y de publicación de artículos científicos
+De tal modo, se conformaría un equipo inicial de DATASOC integrado por:
 
-2.  Definir y dirigir las líneas de investigación de DATASOC
+- Prof. Juan Carlos Castillo, Director de Investigación
+- Klaus Lehmann, Investigador DATASOC
+- Gabriel Cortés, Asistente de la Dirección de Investigación
+- Asistente DATASOC (media jornada).
 
-3.  Coordinar al equipo de investigación de DATASOC
+Este equipo tendría como objetivo elaborar la propuesta formal de FIDA-DATASOC, incluyendo su planificación académica, organizacional y presupuestaria para los próximos tres años. 
 
-4.  Asumir los roles del Director en las instancias que éste se lo delegue
-
-### Coordinador/a Ejecutivo
-
-El Coordinador será el profesional responsable de la gestión operativa y administrativa de DATASOC, asegurando la articulación efectiva entre sus distintas líneas de trabajo y el cumplimiento de sus objetivos estratégicos. Entre sus principales funciones se incluyen:
-
-1.  Apoyar al Director en la definición estratégica de DATASOC, participando en la formulación de objetivos, indicadores y planes de acción.
-
-2.  Planificar y ejecutar operativamente las actividades de DATASOC
-
-3.  Monitorear el avance académico y presupuestario de DATASOC
-
-4.  Coordinar el trabajo cotidiano del equipo profesional de DATASOC
-
-5.  Coordinar y supervisar las comunicaciones y la Web de DATASOC
-
-### Profesional Encargado Área Investigación
-
-El Profesional Encargado del Área de Investigación será el responsable desarrollar y ejecutar las actividades de investigación de DATASOC, contribuyendo al fortalecimiento de sus líneas de investigación. Entre sus funciones principales se incluyen:
-
-1.  Apoyar activamente en la formulación y postulación de proyectos de investigación a fondos concursables internos y externos.
-
-2.  Coordinar al equipo de investigación, incluyendo ayudante, tesistas y estudiantes en práctica.
-
-3.  Contribuir a la redacción de publicaciones académicas, informes técnicos y productos de difusión científica.
-
-### Profesional Encargado Área Formación
-
-El Profesional Encargado del Área de Formación será el responsable de diseñar, coordinar e implementar las actividades formativas de DATASOC, orientadas a fortalecer las capacidades en análisis y de gestión de datos dentro y fuera de la Facultad. Sus funciones principales incluyen:
-
-1.  Diseñar e implementar cursos, talleres y otras actividades en herramientas de análisis, visualización y gestión de datos
-
-2.  Colaborar con la Unidad de Educación Continua en la creación de cursos de extensión y certificaciones en ciencia de datos sociales
-
-3.  Promover y coordinar la articulación de cursos de análisis de datos a nivel de Facultad.
-
-4.  Apoyar la incorporación de estudiantes y tesistas a DATASOC
-
-### Profesional Encargado Área Gobernanza de Datos
-
-El Profesional Encargado del Área de Gobernanza de Datos será el responsable de diseñar e implementar estándares de gobernanza de datos a nivel de la Facultad de Ciencias Sociales. Sus funciones principales incluyen:
-
-1.  Desarrollar políticas, protocolos y flujos de trabajo para la gestión de datos institucionales
-
-2.  Coordinar con las distintas unidades de la Facultad la implementación de estas políticas
-
-3.  Asesorar a los equipos de gestión de la Facultad en buenas prácticas de gestión de datos.
-
-### Profesional Encargado Área Apoyo, Impacto Y Transferencia
-
-El Profesional Encargado del Área Apoyo, Impacto y Transferencia será el encargado de diseñar, coordinar y ejecutar servicios especializados de análisis, visualización y gestión de datos sociales. Entre sus funciones principales incluyen:
-
-1.  Identificar oportunidades de alianzas estratégicas con organismos que busquen servicios de análisis de datos
-
-2.  Diseñar y ejecutar servicios de análisis reproducible de datos sociales a instituciones externas
-
-3.  Brindar asesoría metodológica integral a académicos y equipos de investigación de la Facultad.
-
-### Organigrama
+### Planificación
 
 ```{mermaid}
-graph TD
-  D[Director/a]
-  S[Subdirector/a de Investigación]
-  C[Coordinador/a Ejecutivo/a]
-
-  D --> S
-  D --> C
-
-  %% Profesionales bajo coordinación general
-  S --> PI[Profesional Área de Investigación]
-  C --> PF[Profesional Área de Formación]
-  C --> PG[Profesional Área de Gobernanza de Datos]
-  C --> PA[Profesional Área de Apoyo, Impacto y Transferencia]
-
+gantt
+    dateFormat  YYYY-MM-DD
+    axisFormat  %b %y
+    title Cronograma Formulación FIDA-DATASOC
+    Diseño conceptual :a1, 2025-09-04, 2025-10-21
+    Propuesta de proyecto : a3, after a1, 45d
+    Feedback: a4, after a3, 15d
+    Ajustes finales: a5, after a4, 15d
+    Entrega VAA: milestone, after a5, 7d
 ```
+
+
+
