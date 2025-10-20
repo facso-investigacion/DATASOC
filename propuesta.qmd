@@ -13,37 +13,37 @@ En los últimos años, la Facultad de Ciencias Sociales ha buscado posicionarse 
 
 Pese a esto, la Facultad aún enfrenta dificultades para lograr este objetivo, tales como:
 
- **a) Falencias en la implementación de una gobernanza de datos efectiva**
- 
+**a) Falencias en la implementación de una gobernanza de datos efectiva**
+
 Aunque existen iniciativas puntuales, la gobernanza de datos no se ha establecido como un objetivo estratégico. En términos generales, se observa una alta fragmentación de los sistemas de información, sin definición clara de roles, estándares y buenas prácticas comunes.
- 
+
 En el ámbito de la investigación, la ausencia de lineamientos para la gestión de datos limita la generación de reportes periódicos sobre el estado de la investigación y, en consecuencia, dificulta la visibilización de los logros institucionales.
- 
- **b) Limitaciones institucionales para el impacto y la transferencia de conocimientos a la sociedad**
- 
+
+**b) Limitaciones institucionales para el impacto y la transferencia de conocimientos a la sociedad**
+
 Más allá de la gobernanza de datos, existe una indefinición institucional respecto de qué entendemos por *impacto* y cómo medirlo. En particular, se carece de un canal que facilite sistemáticamente la transferencia del conocimiento hacia la sociedad civil y los tomadores de decisiones.
- 
- **c) Poca preparación para nuevos desafíos científicos y tecnológicos**
- 
+
+**c) Poca preparación para nuevos desafíos científicos y tecnológicos**
+
 Las ciencias sociales computacionales han crecido aceleradamente en los últimos años, impulsadas por desarrollos en inteligencia artificial, *machine learning*, análisis de *big data* y procesamiento de lenguaje natural.
 
 Al mismo tiempo, las ciencias sociales enfrentan retos vinculados con la apertura y la transparencia del trabajo investigativo, evidenciados en la llamada crisis de replicación. En respuesta, cobra creciente importancia la incorporación de principios de ciencia abierta.
 
 Pese a iniciativas aisladas, la Facultad no cuenta con un espacio que, de forma sistemática, reflexione, investigue y acompañe la adopción de estas herramientas en el quehacer académico.
 
-En este contexto, proponemos la creación del Centro de Ciencia de Datos de la Facultad de Ciencias Sociales -- **DATASOC**, orietando a cerrar estas brechas mediante la instalación de una gobernanza de datos institucional efectiva; la construcción de un canal que facilite la transferencia de conocimiento al Estado y la sociedad civil; y abriendo un campo de desarrollo para la investigación y la formación en ciencias de datos sociales con proyección nacional. Este documento presenta un primer acercamiento al propósito general de DATASOC y a las potenciales líneas de acción del Centro.  
+En este contexto, proponemos la creación del Centro de Ciencia de Datos de la Facultad de Ciencias Sociales -- **DATASOC**, orietando a cerrar estas brechas mediante la instalación de una gobernanza de datos institucional efectiva; la construcción de un canal que facilite la transferencia de conocimiento al Estado y la sociedad civil; y abriendo un campo de desarrollo para la investigación y la formación en ciencias de datos sociales con proyección nacional. Este documento presenta un primer acercamiento al propósito general de DATASOC y a las potenciales líneas de acción del Centro.
 
 ## Propósito
 
 **DATASOC busca posicionar a la Facultad de Ciencias Sociales como un referente nacional en el desarrollo de las ciencias de datos sociales**, articulando investigación, formación, gestión y consultoría en un único Centro de Ciencia de Datos Sociales que permita:
 
- i) **Impulsar la investigación de punta** en métodos avanzados y ciencias sociales computaciones.
- 
- ii) **Promover la formación** y la capacitación en metodologías de análisis y gestión de datos para estudiantes, académicos y funcionarios de la Facultad.
- 
- iii) **Fortalecer la gobernanza de datos** interna de la Facultad, promoviendo prácticas que estandaricen y optimicen procesos de gestión interna
- 
- iv) **Proveer servicios de gestión, análisis y visualización de datos sociales** de calidad y siguiendo los principios de la ciencia abierta para la academia, la ciudadanía y los tomadores de decisiones. 
+i)  **Impulsar la investigación de punta** en métodos avanzados y ciencias sociales computaciones.
+
+ii) **Promover la formación** y la capacitación en metodologías de análisis y gestión de datos para estudiantes, académicos y funcionarios de la Facultad.
+
+iii) **Fortalecer la gobernanza de datos** interna de la Facultad, promoviendo prácticas que estandaricen y optimicen procesos de gestión interna
+
+iv) **Proveer servicios de gestión, análisis y visualización de datos sociales** de calidad y siguiendo los principios de la ciencia abierta para la academia, la ciudadanía y los tomadores de decisiones.
 
 ## Líneas de acción
 
@@ -51,27 +51,27 @@ En este contexto, proponemos la creación del Centro de Ciencia de Datos de la F
 
 DATASOC se propone como un **nodo para el desarrollo de investigación metodológica y metacientífica avanzada**. Estas labores se encontrarán en el núcleo del trabajo de DATASOC, pues permitirán el despligue efectivo de las otras líneas de acción, otorgando insumos efectivos para la formación, la gestión interna de datos, y provisión de servicios de consultoría.
 
-El desarrollo de líneas de investigación permitirá a DATASOC presentarse a fondos concursables externos e internos de la Universidad de Chile, constituyendose como una potencial fuente de financiamiento para el Centro. 
+El desarrollo de líneas de investigación permitirá a DATASOC presentarse a fondos concursables externos e internos de la Universidad de Chile, constituyendose como una potencial fuente de financiamiento para el Centro.
 
 Algunas líneas de investigación que podría albergar DATASOC incluyen:
 
-- Investigación metodológica en el área de las **ciencias sociales computacionales**, con especial enfasis en el desarrollo de nuevas técnicas y tecnologías tales como la Inteligencia Artificial, el Machine Learning, el Agent-Based Modelling, la Big Data, el Procesamiento de Lenguaje Natural, entre otras.
+-   Investigación metodológica en el área de las **ciencias sociales computacionales**, con especial enfasis en el desarrollo de nuevas técnicas y tecnologías tales como la Inteligencia Artificial, el Machine Learning, el Agent-Based Modelling, la Big Data, el Procesamiento de Lenguaje Natural, entre otras.
 
-- Investigación vinculada a las áreas de la **ciencia abierta, la metaciencia y la bibliometría**. Particularmente, se propone utilizar los datos sobre proyectos de investigación postulados, adjudicados y no-adjudicados por académicos de la Facultad como un potencial objeto de estudio. En esta línea, la Dirección de Investigación y Publicaciones ha venido desarrollando la **Unidad de Ciencia de Datos en Investigación -- CINDAI** que busca desarrollar un sistema local e integrado de gestión, producción y visualización de información científica en la Facultad. 
+-   Investigación vinculada a las áreas de la **ciencia abierta, la metaciencia y la bibliometría**. Particularmente, se propone utilizar los datos sobre proyectos de investigación postulados, adjudicados y no-adjudicados por académicos de la Facultad como un potencial objeto de estudio. En esta línea, la Dirección de Investigación y Publicaciones ha venido desarrollando la **Unidad de Ciencia de Datos en Investigación -- CINDAI** que busca desarrollar un sistema local e integrado de gestión, producción y visualización de información científica en la Facultad.
 
-- A partir de los **datos administrativos** generados en las distintas unidades de la Facultad se podría abrir una tercera línea focalizada en **Estudios sobre Instituciones de Educación Superior**, en la intersección entre las sociologías de la educación y de las organizaciones. 
+-   A partir de los **datos administrativos** generados en las distintas unidades de la Facultad se podría abrir una tercera línea focalizada en **Estudios sobre Instituciones de Educación Superior**, en la intersección entre las sociologías de la educación y de las organizaciones.
 
 ### Formación
 
 DATASOC será un un **espacio clave en la formación y capacitación** de estudiantes, académicos y funcionarios de la Facultad, así como de la población en general. De tal manera, el rol de DATASOC en cuanto a formación puede incluir:
 
-- **Coordinación de académicos responsables de cursos metodológicos y de análisis de datos** en carreras de pregrado y programas de postgrado con el fin de buscar lineamientos comunes en la formación a nivel de Facultad.
+-   **Coordinación de académicos responsables de cursos metodológicos y de análisis de datos** en carreras de pregrado y programas de postgrado con el fin de buscar lineamientos comunes en la formación a nivel de Facultad.
 
-- Dar espacio para integrar estudiantes de pre y postgrados como **pasantes, prácticantes o tesistas**. 
+-   Dar espacio para integrar estudiantes de pre y postgrados como **pasantes, prácticantes o tesistas**.
 
-- Brindar **cursos de capacitación** a académicos y funcionarios en herramientas de ciencia de datos que les puedan ser útiles para sus labores en investigación, docencia y gestión. 
+-   Brindar **cursos de capacitación** a académicos y funcionarios en herramientas de ciencia de datos que les puedan ser útiles para sus labores en investigación, docencia y gestión.
 
-- Crear, junto a la Unidad de Educación Continua, una oferta de **cursos de extensión** orientados al público externo y que entreguen certificaciones en gestión y análisis de datos. 
+-   Crear, junto a la Unidad de Educación Continua, una oferta de **cursos de extensión** orientados al público externo y que entreguen certificaciones en gestión y análisis de datos.
 
 ### Gobernanza de Datos
 
@@ -79,8 +79,7 @@ DATASOC asumirá un rol activo en la **optimización de la gestión y la goberna
 
 Desde la Dirección de Investigación ya se han dado pasos en este sentido mediante el desarrollo de [CINDAI](https://facso-investigacion.github.io/presentaciones/gestion-informacion/gestion-informacion.html#/title-slide), una iniciativa orientada a consolidar un sistema local e integrado para la gestión, producción y visualización de información científica en la Facultad de Ciencias Sociales. Este sistema busca integrar, consolidar y mantenre actualizados los datos relacionados con las postulaciones a proyectos de investigación del cuerpo académico, transformándolos en información confiable y oportuna para la comunicación y la toma de decisiones.
 
-En esa misma línea, DATASOC podría ofrecer instancias de consultoría a otras unidades de la Facultad interesadas en fortalecer la gestión de sus datos internos o en desarrollar y mantener plataformas de visualización dinámicas que reflejen indicadores claves para su que hacer. 
-
+En esa misma línea, DATASOC podría ofrecer instancias de consultoría a otras unidades de la Facultad interesadas en fortalecer la gestión de sus datos internos o en desarrollar y mantener plataformas de visualización dinámicas que reflejen indicadores claves para su que hacer.
 
 ### Apoyo, Impacto y Transferencia
 
@@ -88,87 +87,105 @@ Se busca fortalecer el propósito público del conocimiento generado en DATASOC 
 
 Las áreas de apoyo comprenden:
 
-i) **Diseño de estudios**: asesoría en la formulación de preguntas de investigación, hipótesis, estrategias de muestreo, elaboración de cuestionarios y construcción de escalas, bajo criterios de rigurosidad metodológica, transparencia y reproducibilidad.
+i)  **Diseño de estudios**: asesoría en la formulación de preguntas de investigación, hipótesis, estrategias de muestreo, elaboración de cuestionarios y construcción de escalas, bajo criterios de rigurosidad metodológica, transparencia y reproducibilidad.
 
 ii) **Acceso y uso de datos secundarios**: Dar recomendaciones de bases de datos secundarios disponibles acordes a los objetivos del estudio.
 
-iii) **Procesamiento y análisis reproducible de datos sociales**: Elaboración de repotes estadísticos reproducibles y desarrollo de visualizaciones interactivas sobre problemas de investigación, utilizando herramientas computacionales para el análisis de bases de datos nacionales (CASEN, INE, ELSOC, entre otras). 
+iii) **Procesamiento y análisis reproducible de datos sociales**: Elaboración de repotes estadísticos reproducibles y desarrollo de visualizaciones interactivas sobre problemas de investigación, utilizando herramientas computacionales para el análisis de bases de datos nacionales (CASEN, INE, ELSOC, entre otras).
 
-iv) **Gestión, archivo y apertura de datos**: Dar orientación en el almacenamiento de datos y las condiciones que puede ser compartida y reutilizada. 
+iv) **Gestión, archivo y apertura de datos**: Dar orientación en el almacenamiento de datos y las condiciones que puede ser compartida y reutilizada.
 
 ## Roles y Equipo
 
 ### Director/a
 
-EL Director será el encargado académico de DATASOC. Su función principal será dirigir estratégicamente DATASOC, estableciendo objetivos, metas e indicadores asociadas a cada una de sus líneas de acción. Además, tendrá a su cargo la supervisión del equipo profesional de DATASOC, y el vínculo con las autoridades de la Facultad y de la Universidad, así como con instituciones externas del sector público, privado y de la sociedad civil. 
+EL Director será el encargado académico de DATASOC. Su función principal será dirigir estratégicamente DATASOC, estableciendo objetivos, metas e indicadores asociadas a cada una de sus líneas de acción. Además, tendrá a su cargo la supervisión del equipo profesional de DATASOC, y el vínculo con las autoridades de la Facultad y de la Universidad, así como con instituciones externas del sector público, privado y de la sociedad civil.
 
-Durante la fase inicial, su objetivo prioritario será la instalación y puesta en marcha operativa de DATASOC, asegurando la consolidación de sus procesos, la articulación de sus líneas de trabajo y el posicionamiento de DATASOC como un espacio de referencias en las ciencias de datos sociales a nivel nacional. 
+Durante la fase inicial, su objetivo prioritario será la instalación y puesta en marcha operativa de DATASOC, asegurando la consolidación de sus procesos, la articulación de sus líneas de trabajo y el posicionamiento de DATASOC como un espacio de referencias en las ciencias de datos sociales a nivel nacional.
 
 ### Subdirector/a
 
 El Subdirector participará activamente en la dirección de DATASOC. Particularmente, el Subdirector se encargará del liderazgo científico y de la definición de la agenda de investigación del Centro. Entre sus funciones
 
-1. Definir una estrategia de postulaciones a fondos concursables y de publicación de artículos científicos
+1.  Definir una estrategia de postulaciones a fondos concursables y de publicación de artículos científicos
 
-2. Definir y dirigir las líneas de investigación de DATASOC
+2.  Definir y dirigir las líneas de investigación de DATASOC
 
-3. Coordinar al equipo de investigación de DATASOC
+3.  Coordinar al equipo de investigación de DATASOC
 
-4. Asumir los roles del Director en las instancias que éste se lo delegue 
+4.  Asumir los roles del Director en las instancias que éste se lo delegue
 
 ### Coordinador/a Ejecutivo
 
 El Coordinador será el profesional responsable de la gestión operativa y administrativa de DATASOC, asegurando la articulación efectiva entre sus distintas líneas de trabajo y el cumplimiento de sus objetivos estratégicos. Entre sus principales funciones se incluyen:
 
-1. Apoyar al Director en la definición estratégica de DATASOC, participando en la formulación de objetivos, indicadores y planes de acción.
+1.  Apoyar al Director en la definición estratégica de DATASOC, participando en la formulación de objetivos, indicadores y planes de acción.
 
-2. Planificar y ejecutar operativamente las actividades de DATASOC
+2.  Planificar y ejecutar operativamente las actividades de DATASOC
 
-3. Monitorear el avance académico y presupuestario de DATASOC
+3.  Monitorear el avance académico y presupuestario de DATASOC
 
-4. Coordinar el trabajo cotidiano del equipo profesional de DATASOC
+4.  Coordinar el trabajo cotidiano del equipo profesional de DATASOC
 
-5. Coordinar y supervisar las comunicaciones y la Web de DATASOC
-
+5.  Coordinar y supervisar las comunicaciones y la Web de DATASOC
 
 ### Profesional Encargado Área Investigación
 
 El Profesional Encargado del Área de Investigación será el responsable desarrollar y ejecutar las actividades de investigación de DATASOC, contribuyendo al fortalecimiento de sus líneas de investigación. Entre sus funciones principales se incluyen:
 
-1. Apoyar activamente en la formulación y postulación de proyectos de investigación a fondos concursables internos y externos. 
+1.  Apoyar activamente en la formulación y postulación de proyectos de investigación a fondos concursables internos y externos.
 
-2. Coordinar al equipo de investigación, incluyendo ayudante, tesistas y estudiantes en práctica.
+2.  Coordinar al equipo de investigación, incluyendo ayudante, tesistas y estudiantes en práctica.
 
-3. Contribuir a la redacción de publicaciones académicas, informes técnicos y productos de difusión científica. 
+3.  Contribuir a la redacción de publicaciones académicas, informes técnicos y productos de difusión científica.
 
 ### Profesional Encargado Área Formación
 
 El Profesional Encargado del Área de Formación será el responsable de diseñar, coordinar e implementar las actividades formativas de DATASOC, orientadas a fortalecer las capacidades en análisis y de gestión de datos dentro y fuera de la Facultad. Sus funciones principales incluyen:
 
-1. Diseñar e implementar cursos, talleres y otras actividades en herramientas de análisis, visualización y gestión de datos
+1.  Diseñar e implementar cursos, talleres y otras actividades en herramientas de análisis, visualización y gestión de datos
 
-2. Colaborar con la Unidad de Educación Continua en la creación de cursos de extensión y certificaciones en ciencia de datos sociales
+2.  Colaborar con la Unidad de Educación Continua en la creación de cursos de extensión y certificaciones en ciencia de datos sociales
 
-3. Promover y coordinar la articulación de cursos de análisis de datos a nivel de Facultad.
+3.  Promover y coordinar la articulación de cursos de análisis de datos a nivel de Facultad.
 
-4. Apoyar la incorporación de estudiantes y tesistas a DATASOC
+4.  Apoyar la incorporación de estudiantes y tesistas a DATASOC
 
 ### Profesional Encargado Área Gobernanza de Datos
 
 El Profesional Encargado del Área de Gobernanza de Datos será el responsable de diseñar e implementar estándares de gobernanza de datos a nivel de la Facultad de Ciencias Sociales. Sus funciones principales incluyen:
 
-1. Desarrollar políticas, protocolos y flujos de trabajo para la gestión de datos institucionales
+1.  Desarrollar políticas, protocolos y flujos de trabajo para la gestión de datos institucionales
 
-2. Coordinar con las distintas unidades de la Facultad la implementación de estas políticas
+2.  Coordinar con las distintas unidades de la Facultad la implementación de estas políticas
 
-3. Asesorar a los equipos de gestión de la Facultad en buenas prácticas de gestión de datos. 
+3.  Asesorar a los equipos de gestión de la Facultad en buenas prácticas de gestión de datos.
 
 ### Profesional Encargado Área Apoyo, Impacto Y Transferencia
 
 El Profesional Encargado del Área Apoyo, Impacto y Transferencia será el encargado de diseñar, coordinar y ejecutar servicios especializados de análisis, visualización y gestión de datos sociales. Entre sus funciones principales incluyen:
 
-1. Identificar oportunidades de alianzas estratégicas con organismos que busquen servicios de análisis de datos
+1.  Identificar oportunidades de alianzas estratégicas con organismos que busquen servicios de análisis de datos
 
-2. Diseñar y ejecutar servicios de análisis reproducible de datos sociales a instituciones externas
+2.  Diseñar y ejecutar servicios de análisis reproducible de datos sociales a instituciones externas
 
-3. Brindar asesoría metodológica integral a académicos y equipos de investigación de la Facultad. 
+3.  Brindar asesoría metodológica integral a académicos y equipos de investigación de la Facultad.
+
+### Organigrama
+
+```{mermaid}
+graph TD
+  D[Director/a]
+  S[Subdirector/a de Investigación]
+  C[Coordinador/a Ejecutivo/a]
+
+  D --> S
+  D --> C
+
+  %% Profesionales bajo coordinación general
+  S --> PI[Profesional Área de Investigación]
+  C --> PF[Profesional Área de Formación]
+  C --> PG[Profesional Área de Gobernanza de Datos]
+  C --> PA[Profesional Área de Apoyo, Impacto y Transferencia]
+
+```
