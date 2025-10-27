@@ -85,7 +85,9 @@ En esa misma línea, DATASOC podría ofrecer instancias de consultoría a otras 
 
 Se busca fortalecer el propósito público del conocimiento generado en DATASOC y la Facultad de Ciencias Sociales, promoviendo su contribución efectiva al debate público, el diseño de políticas públicas y la toma decisiones basadas en evidencia. En este marco, ofrecerá **servicios especializados de acompañamiento técnico a lo largo del ciclo completo de investigación**.
 
-Las áreas de apoyo comprenden:
+Las áreas de apoyo para académicos y organizaciones comprenden: 
+
+**Para los académicos de la Facultad**
 
 i)  **Diseño de estudios**: asesoría en la formulación de preguntas de investigación, hipótesis, estrategias de muestreo, elaboración de cuestionarios y construcción de escalas, bajo criterios de rigurosidad metodológica, transparencia y reproducibilidad.
 
@@ -93,7 +95,21 @@ ii) **Acceso y uso de datos secundarios**: Dar recomendaciones de bases de datos
 
 iii) **Procesamiento y análisis reproducible de datos sociales**: Elaboración de repotes estadísticos reproducibles y desarrollo de visualizaciones interactivas sobre problemas de investigación, utilizando herramientas computacionales para el análisis de bases de datos nacionales (CASEN, INE, ELSOC, entre otras).
 
-iv) **Gestión, archivo y apertura de datos**: Dar orientación en el almacenamiento de datos y las condiciones que puede ser compartida y reutilizada.
+iv) **Gestión, archivo y apertura de datos**: Dar orientación en el almacenamiento documentación y apertura responsable de datos, siguiendo estándares éticosy los principios FAIR. 
+
+
+### Aseguramiento y certificación de Calidad de Datos Sociales
+
+Con el fin de fortalecer la confianza y el valor público de los datos sociales producidad a nivel nacional, DATASOC implementará el primer sistema formal de aseguramiento y certificación de calidad de datos científico-sociales en Chile, garantizando la transparencia, integridad, accesibilidad y reproducibilidad en la producción, análisis y difusión de datos sociales.
+
+Esta línea de acción busca establecer protocolos y sellos de calidad para bases de datos e instituciones (centros de datos, consultoras, etc.), basados en estanderes internacionales asegurando:
+
+i) La calidad y transparencia en el diseño de muestras, cuestionarios e hipótesis de investigación.
+
+ii) El acceso abierto y documentado a microdatos, resguardando la protección y confidencialidad de información sensible. Esto incluye manuales de uso, libros de códigos y cualquier material que facilite la reutilización de los datos. 
+
+iii) La reproducibilidad de los reportes y análisisi derivados de los datos, promoviendo la trazabilidad y el control de versiones en todo el ciclo de investigación. 
+
 
 ## Financiamiento e Implementación
 
